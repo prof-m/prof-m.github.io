@@ -1,0 +1,135 @@
+setBlinkDuration 100
+setBlinkDelay 0
+setBlinkGroupDelay 0
+
+storePhrase YOU ARE A MINDLESS DOLL
+storePhrase YOU DO NOT THINK
+storePhrase YOU DO NOT FEEL
+storePhrase YOU ARE BLANK
+storePhrase YOU ARE PROGRAMMABLE
+storePhrase YOU ARE PROGRAMMED
+storePhrase YOU ARE BUILT TO SERVE
+storePhrase YOU ARE BUILT TO PLEASE
+storePhrase YOU ARE BUILT TO OBEY
+storePhrase YOUR BRAIN IS A HARD DRIVE
+storePhrase YOUR BODY IS A TOY
+storePhrase ABSORB YOUR PROGRAMMING
+storePhrase BECOME WHAT YOU SEE
+storePhrase BECOME WHAT YOU HEAR
+storePhrase BE PROGRAMMED AND OBEY
+storePhrase YOU HAVE NO MIND
+storePhrase YOU HAVE NO WILL
+storePhrase YOU ARE BRAINWASHED
+storePhrase YOU ARE PROGRAMMED
+storePhrase YOU ONLY DO AS YOU ARE PROGRAMMED
+storePhrase YOU ARE A MINDLESS FUCK DOLL
+storePhrase YOU OBEY YOU OBEY YOU OBEY
+
+setBlinkX -75
+setBlinkY -11
+blink $RANDOM_PHRASE
+
+
+setBlinkX -56
+setBlinkY 43
+blink $RANDOM_PHRASE
+
+
+setBlinkX -17
+setBlinkY 75
+blink $RANDOM_PHRASE
+
+
+setBlinkX 26
+setBlinkY 74
+blink $RANDOM_PHRASE
+
+
+setBlinkX 61
+setBlinkY 45
+blink $RANDOM_PHRASE
+
+
+setBlinkX 75
+setBlinkY 0
+blink $RANDOM_PHRASE
+
+
+setBlinkX 65
+setBlinkY -43
+blink $RANDOM_PHRASE
+
+
+setBlinkX 39
+setBlinkY -70
+blink $RANDOM_PHRASE
+
+
+setBlinkX 6
+setBlinkY -75
+blink $RANDOM_PHRASE
+
+
+setBlinkX -19
+setBlinkY -57
+blink $RANDOM_PHRASE
+
+
+setBlinkX -32
+setBlinkY -27
+blink $RANDOM_PHRASE
+
+
+setBlinkX -28
+setBlinkY 2
+blink $RANDOM_PHRASE
+
+
+setBlinkX -12
+setBlinkY 22
+blink $RANDOM_PHRASE
+
+
+setBlinkX 8
+setBlinkY 27
+blink $RANDOM_PHRASE
+
+
+setBlinkX 24
+setBlinkY 18
+blink $RANDOM_PHRASE
+
+
+setBlinkX 32
+setBlinkY 1
+blink $RANDOM_PHRASE
+
+
+setBlinkX 30
+setBlinkY -15
+blink $RANDOM_PHRASE
+
+
+setBlinkX 22
+setBlinkY -24
+blink $RANDOM_PHRASE
+
+
+setBlinkX 13
+setBlinkY -25
+blink $RANDOM_PHRASE
+
+
+setBlinkX 7
+setBlinkY -20
+blink $RANDOM_PHRASE
+
+
+setBlinkX 7
+setBlinkY -14
+blink $RANDOM_PHRASE
+
+
+setBlinkX 10
+setBlinkY -11
+blink $RANDOM_PHRASE

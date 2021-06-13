@@ -1,0 +1,114 @@
+setBlinkDuration 100
+setBlinkDelay 0
+setBlinkGroupDelay 0
+
+setBlinkX -75
+setBlinkY -11
+blink YOU ARE A MINDLESS DOLL
+
+
+setBlinkX -56
+setBlinkY 43
+blink YOU DO NOT THINK
+
+
+setBlinkX -17
+setBlinkY 75
+blink YOU DO NOT FEEL
+
+
+setBlinkX 26
+setBlinkY 74
+blink YOU ARE BLANK
+
+
+setBlinkX 61
+setBlinkY 45
+blink YOU ARE PROGRAMMABLE
+
+
+setBlinkX 75
+setBlinkY 0
+blink YOU ARE PROGRAMMED
+
+
+setBlinkX 65
+setBlinkY -43
+blink YOU ARE BUILT TO SERVE
+
+
+setBlinkX 39
+setBlinkY -70
+blink YOU ARE BUILT TO PLEASE
+
+
+setBlinkX 6
+setBlinkY -75
+blink YOU ARE BUILT TO OBEY
+
+
+setBlinkX -19
+setBlinkY -57
+blink YOUR BRAIN IS A HARD DRIVE
+
+
+setBlinkX -32
+setBlinkY -27
+blink YOUR BODY IS A TOY
+
+
+setBlinkX -28
+setBlinkY 2
+blink ABSORB YOUR PROGRAMMING
+
+
+setBlinkX -12
+setBlinkY 22
+blink BECOME WHAT YOU SEE
+
+
+setBlinkX 8
+setBlinkY 27
+blink BECOME WHAT YOU HEAR
+
+
+setBlinkX 24
+setBlinkY 18
+blink BE PROGRAMMED AND OBEY
+
+
+setBlinkX 32
+setBlinkY 1
+blink YOU HAVE NO MIND
+
+
+setBlinkX 30
+setBlinkY -15
+blink YOU HAVE NO WILL
+
+
+setBlinkX 22
+setBlinkY -24
+blink YOU ARE BRAINWASHED
+
+
+setBlinkX 13
+setBlinkY -25
+blink YOU ARE PROGRAMMED
+
+
+setBlinkX 7
+setBlinkY -20
+blink YOU ONLY DO AS YOU ARE PROGRAMMED
+
+
+setBlinkX 7
+setBlinkY -14
+blink YOU ARE A MINDLESS FUCK DOLL
+
+
+setBlinkX 10
+setBlinkY -11
+blink YOU OBEY YOU OBEY YOU OBEY
+setBlinkDuration 200 500
+setBlinkDelay 80 200
