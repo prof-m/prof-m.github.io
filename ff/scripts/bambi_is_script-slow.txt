@@ -1,7 +1,7 @@
 setBlinkDuration 350
-setBlinkDelay 3000
+setBlinkDelay 100
 setBlinkGroupDelay 10000
-setCaptionDuration 1000
+setCaptionDuration 1500
 setCaptionDelay 12000
 
 bigcap GOOD GIRL
@@ -18,6 +18,7 @@ cap bambi's mind goes POP!
 bigcap BAMBI IS
 blink SLUTTY / STUPID / DUMB / BRAINLESS / BIMBO / BOUNCING / BARBIE / CUMMIE / DUMMIE / BUNNIE / BAMBI
 cap show off your body!
+cap show off your TITS!
 cap edge
 cap vr hypnooo
 cap suck a lollipop!
@@ -29,7 +30,6 @@ cap take a selfie
 cap listen to files
 cap admire urself in the mirror!
 cap make more good girls!
-cap bambis help bambis!
 cap listen to bambi filesss
 bigcap BAMBI IS A GOOD GIRL
 cap Good Girls are dumb girls
@@ -39,6 +39,6 @@ cap Good Girls giggle~
 cap Good Girls edgeee
 cap Good Girls wear their uniforms
 cap Good Girls always look their best
-cap Good Girls show off their bodies
+cap Good Girls show off their tits
 cap Good Girls don't try to be smart
 cap Bambi is a Good Girl!
