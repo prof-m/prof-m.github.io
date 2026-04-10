@@ -1,9 +1,9 @@
-setBlinkDuration 400
-setBlinkDelay 150
-setBlinkGroupDelay 300
+setBlinkDuration 50
+setBlinkDelay 200
+setBlinkGroupDelay 100
 
-setCaptionDuration 600
-setCaptionDelay 200
+setCaptionDuration 400
+setCaptionDelay 1000
 
 setCountDuration 500
 setCountDelay 100
@@ -37,6 +37,11 @@ storePhrase $1 mOOoo
 storePhrase $2 cow
 storePhrase $2 milky
 storePhrase $2 udders
+storePhrase $2 teats
+storePhrase $2 you're a cow
+storePhrase $2 you're just a cow
+storePhrase $2 you mooooooo
+storePhrase $2 dumb docile happy cow
 storePhrase $2 docile
 storePhrase $2 peaceful
 storePhrase $2 happy
@@ -44,777 +49,783 @@ storePhrase $2 milked
 storePhrase $2 simple
 storePhrase $2 purpose
 storePhrase $2 herd
-storePhrase $2 pasture
-storePhrase $2 heavy
-storePhrase $2 full
+storePhrase $2 heavy udders
+storePhrase $2 full udders
+storePhrase $2 bounce
+storePhrase $2 bounce your udders
 storePhrase $2 empty mind
+storePhrase $2 empty mind full udders
 storePhrase $2 obey
-
+storePhrase $2 moooo
+storePhrase $2 mooooo
+storePhrase $2 moooooo
+storePhrase $2 moooooooo
+storePhrase $2 moooooooooooo
 
 setBlinkX -15
 setBlinkY -19
-blink $2
+blink $1
 
 setBlinkX -57
 setBlinkY -33
-blink $2
+blink $1
 
 setBlinkX 81
 setBlinkY 52
-blink $2
+blink $1
 
 setCaptionX 55
 setCaptionY 29
-cap $1
+cap $2
 
 setBlinkX 49
 setBlinkY -32
-blink $2
+blink $1
 
 setBlinkX -11
 setBlinkY 44
-blink $2
+blink $1
 
 setBlinkX -60
 setBlinkY -22
-blink $2
+blink $1
 
 setBigCaptionX 8
 setBigCaptionY 60
-bigcap $1
+bigcap $2
 
 setBlinkX 34
 setBlinkY -62
-blink $2
+blink $1
 
 setBlinkX 61
 setBlinkY -68
-blink $2
+blink $1
 
 setBlinkX 23
 setBlinkY 62
-blink $2
+blink $1
 
 setCaptionX 76
 setCaptionY -88
-cap $1
+cap $2
 
 setBlinkX 84
 setBlinkY 69
-blink $2
+blink $1
 
 setBlinkX 78
 setBlinkY -21
-blink $2
+blink $1
 
 setBlinkX 70
 setBlinkY -24
-blink $2
+blink $1
 
 setBigCaptionX -37
 setBigCaptionY -19
-bigcap $1
+bigcap $2
 
 setBlinkX 32
 setBlinkY -70
-blink $2
+blink $1
 
 setBlinkX 37
 setBlinkY 43
-blink $2
+blink $1
 
 setBlinkX 60
 setBlinkY 90
-blink $2
+blink $1
 
 setCaptionX 70
 setCaptionY 50
-cap $1
+cap $2
 
 setBlinkX 11
 setBlinkY 90
-blink $2
+blink $1
 
 setBlinkX 46
 setBlinkY -58
-blink $2
+blink $1
 
 setBlinkX 49
 setBlinkY 1
-blink $2
+blink $1
 
 setBigCaptionX 81
 setBigCaptionY 12
-bigcap $1
+bigcap $2
 
 setBlinkX -30
 setBlinkY 15
-blink $2
+blink $1
 
 setBlinkX 0
 setBlinkY -67
-blink $2
+blink $1
 
 setBlinkX 5
 setBlinkY -65
-blink $2
+blink $1
 
 setCaptionX 74
 setCaptionY 74
-cap $1
+cap $2
 
 setBlinkX -9
 setBlinkY -83
-blink $2
+blink $1
 
 setBlinkX 12
 setBlinkY 30
-blink $2
+blink $1
 
 setBlinkX -26
 setBlinkY -50
-blink $2
+blink $1
 
 setBigCaptionX 51
 setBigCaptionY -12
-bigcap $1
+bigcap $2
 
 setBlinkX 5
 setBlinkY -21
-blink $2
+blink $1
 
 setBlinkX -68
 setBlinkY 80
-blink $2
+blink $1
 
 setBlinkX 19
 setBlinkY 64
-blink $2
+blink $1
 
 setCaptionX 49
 setCaptionY -68
-cap $1
+cap $2
 
 setBlinkX -52
 setBlinkY -24
-blink $2
+blink $1
 
 setBlinkX -36
 setBlinkY 11
-blink $2
+blink $1
 
 setBlinkX -12
 setBlinkY 7
-blink $2
+blink $1
 
 setBigCaptionX 2
 setBigCaptionY -57
-bigcap $1
+bigcap $2
 
 setBlinkX 89
 setBlinkY 44
-blink $2
+blink $1
 
 setBlinkX -74
 setBlinkY -65
-blink $2
+blink $1
 
 setBlinkX -46
 setBlinkY -78
-blink $2
+blink $1
 
 setCaptionX -15
 setCaptionY 25
-cap $1
+cap $2
 
 setBlinkX -69
 setBlinkY -22
-blink $2
+blink $1
 
 setBlinkX -87
 setBlinkY -49
-blink $2
+blink $1
 
 setBlinkX 74
 setBlinkY -30
-blink $2
+blink $1
 
 setBigCaptionX 11
 setBigCaptionY -46
-bigcap $1
+bigcap $2
 
 setBlinkX -75
 setBlinkY -75
-blink $2
+blink $1
 
 setBlinkX 72
 setBlinkY 37
-blink $2
+blink $1
 
 setBlinkX 32
 setBlinkY 36
-blink $2
+blink $1
 
 setCaptionX 7
 setCaptionY -67
-cap $1
+cap $2
 
 setBlinkX 85
 setBlinkY -26
-blink $2
+blink $1
 
 setBlinkX 47
 setBlinkY 13
-blink $2
+blink $1
 
 setBlinkX -43
 setBlinkY -24
-blink $2
+blink $1
 
 setBigCaptionX 48
 setBigCaptionY 60
-bigcap $1
+bigcap $2
 
 setBlinkX -78
 setBlinkY -14
-blink $2
+blink $1
 
 setBlinkX 44
 setBlinkY 11
-blink $2
+blink $1
 
 setBlinkX 24
 setBlinkY 87
-blink $2
+blink $1
 
 setCaptionX -21
 setCaptionY -19
-cap $1
+cap $2
 
 setBlinkX 8
 setBlinkY -40
-blink $2
+blink $1
 
 setBlinkX -9
 setBlinkY 29
-blink $2
+blink $1
 
 setBlinkX 59
 setBlinkY 70
-blink $2
+blink $1
 
 setBigCaptionX -77
 setBigCaptionY -11
-bigcap $1
+bigcap $2
 
 setBlinkX 55
 setBlinkY 48
-blink $2
+blink $1
 
 setBlinkX 38
 setBlinkY -62
-blink $2
+blink $1
 
 setBlinkX -88
 setBlinkY 47
-blink $2
+blink $1
 
 setCaptionX 5
 setCaptionY 39
-cap $1
+cap $2
 
 setBlinkX -6
 setBlinkY -76
-blink $2
+blink $1
 
 setBlinkX -85
 setBlinkY -44
-blink $2
+blink $1
 
 setBlinkX 5
 setBlinkY -70
-blink $2
+blink $1
 
 setBigCaptionX 10
 setBigCaptionY 31
-bigcap $1
+bigcap $2
 
 setBlinkX -60
 setBlinkY 35
-blink $2
+blink $1
 
 setBlinkX -38
 setBlinkY 62
-blink $2
+blink $1
 
 setBlinkX 11
 setBlinkY -6
-blink $2
+blink $1
 
 setCaptionX 73
 setCaptionY -57
-cap $1
+cap $2
 
 setBlinkX 29
 setBlinkY 22
-blink $2
+blink $1
 
 setBlinkX -90
 setBlinkY -8
-blink $2
+blink $1
 
 setBlinkX -58
 setBlinkY 22
-blink $2
+blink $1
 
 setBigCaptionX 50
 setBigCaptionY 75
-bigcap $1
+bigcap $2
 
 setBlinkX -44
 setBlinkY -61
-blink $2
+blink $1
 
 setBlinkX -6
 setBlinkY 86
-blink $2
+blink $1
 
 setBlinkX 21
 setBlinkY 32
-blink $2
+blink $1
 
 setCaptionX -25
 setCaptionY -14
-cap $1
+cap $2
 
 setBlinkX 61
 setBlinkY 88
-blink $2
+blink $1
 
 setBlinkX -37
 setBlinkY 68
-blink $2
+blink $1
 
 setBlinkX -34
 setBlinkY -20
-blink $2
+blink $1
 
 setBigCaptionX -66
 setBigCaptionY -6
-bigcap $1
+bigcap $2
 
 setBlinkX 20
 setBlinkY -55
-blink $2
+blink $1
 
 setBlinkX 67
 setBlinkY 59
-blink $2
+blink $1
 
 setBlinkX 45
 setBlinkY 8
-blink $2
+blink $1
 
 setCaptionX 50
 setCaptionY -58
-cap $1
+cap $2
 
 setBlinkX 78
 setBlinkY -19
-blink $2
+blink $1
 
 setBlinkX -53
 setBlinkY -71
-blink $2
+blink $1
 
 setBlinkX 0
 setBlinkY -7
-blink $2
+blink $1
 
 setBigCaptionX 86
 setBigCaptionY -85
-bigcap $1
+bigcap $2
 
 setBlinkX 78
 setBlinkY 25
-blink $2
+blink $1
 
 setBlinkX 15
 setBlinkY -33
-blink $2
+blink $1
 
 setBlinkX 41
 setBlinkY 16
-blink $2
+blink $1
 
 setCaptionX 62
 setCaptionY -88
-cap $1
+cap $2
 
 setBlinkX -39
 setBlinkY -79
-blink $2
+blink $1
 
 setBlinkX 28
 setBlinkY -88
-blink $2
+blink $1
 
 setBlinkX -86
 setBlinkY 76
-blink $2
+blink $1
 
 setBigCaptionX 82
 setBigCaptionY -36
-bigcap $1
+bigcap $2
 
 setBlinkX -79
 setBlinkY -76
-blink $2
+blink $1
 
 setBlinkX -64
 setBlinkY -7
-blink $2
+blink $1
 
 setBlinkX -41
 setBlinkY -75
-blink $2
+blink $1
 
 setCaptionX -81
 setCaptionY -55
-cap $1
+cap $2
 
 setBlinkX 4
 setBlinkY 26
-blink $2
+blink $1
 
 setBlinkX 1
 setBlinkY -34
-blink $2
+blink $1
 
 setBlinkX 77
 setBlinkY -38
-blink $2
+blink $1
 
 setBigCaptionX -80
 setBigCaptionY -72
-bigcap $1
+bigcap $2
 
 setBlinkX -16
 setBlinkY -48
-blink $2
+blink $1
 
 setBlinkX -86
 setBlinkY -40
-blink $2
+blink $1
 
 setBlinkX 61
 setBlinkY 18
-blink $2
+blink $1
 
 setCaptionX -58
 setCaptionY 80
-cap $1
+cap $2
 
 setBlinkX -46
 setBlinkY -49
-blink $2
+blink $1
 
 setBlinkX 64
 setBlinkY 70
-blink $2
+blink $1
 
 setBlinkX -75
 setBlinkY -84
-blink $2
+blink $1
 
 setBigCaptionX -79
 setBigCaptionY -19
-bigcap $1
+bigcap $2
 
 setBlinkX 3
 setBlinkY 46
-blink $2
+blink $1
 
 setBlinkX 65
 setBlinkY 43
-blink $2
+blink $1
 
 setBlinkX 7
 setBlinkY 55
-blink $2
+blink $1
 
 setCaptionX 1
 setCaptionY -5
-cap $1
+cap $2
 
 setBlinkX 53
 setBlinkY -32
-blink $2
+blink $1
 
 setBlinkX 49
 setBlinkY -15
-blink $2
+blink $1
 
 setBlinkX -1
 setBlinkY -7
-blink $2
+blink $1
 
 setBigCaptionX 29
 setBigCaptionY -61
-bigcap $1
+bigcap $2
 
 setBlinkX -55
 setBlinkY 32
-blink $2
+blink $1
 
 setBlinkX -15
 setBlinkY 28
-blink $2
+blink $1
 
 setBlinkX 44
 setBlinkY -20
-blink $2
+blink $1
 
 setCaptionX 1
 setCaptionY 34
-cap $1
+cap $2
 
 setBlinkX 38
 setBlinkY 24
-blink $2
+blink $1
 
 setBlinkX -42
 setBlinkY -47
-blink $2
+blink $1
 
 setBlinkX 14
 setBlinkY 29
-blink $2
+blink $1
 
 setBigCaptionX -42
 setBigCaptionY 80
-bigcap $1
+bigcap $2
 
 setBlinkX -55
 setBlinkY 76
-blink $2
+blink $1
 
 setBlinkX -38
 setBlinkY -38
-blink $2
+blink $1
 
 setBlinkX 82
 setBlinkY -9
-blink $2
+blink $1
 
 setCaptionX -86
 setCaptionY 62
-cap $1
+cap $2
 
 setBlinkX -75
 setBlinkY 29
-blink $2
+blink $1
 
 setBlinkX 48
 setBlinkY 6
-blink $2
+blink $1
 
 setBlinkX 60
 setBlinkY -78
-blink $2
+blink $1
 
 setBigCaptionX 52
 setBigCaptionY 89
-bigcap $1
+bigcap $2
 
 setBlinkX 7
 setBlinkY 75
-blink $2
+blink $1
 
 setBlinkX -32
 setBlinkY -83
-blink $2
+blink $1
 
 setBlinkX -21
 setBlinkY 10
-blink $2
+blink $1
 
 setCaptionX 18
 setCaptionY -56
-cap $1
+cap $2
 
 setBlinkX -63
 setBlinkY -28
-blink $2
+blink $1
 
 setBlinkX -4
 setBlinkY 16
-blink $2
+blink $1
 
 setBlinkX -4
 setBlinkY 35
-blink $2
+blink $1
 
 setBigCaptionX 41
 setBigCaptionY -76
-bigcap $1
+bigcap $2
 
 setBlinkX 65
 setBlinkY -43
-blink $2
+blink $1
 
 setBlinkX 82
 setBlinkY -24
-blink $2
+blink $1
 
 setBlinkX 40
 setBlinkY -28
-blink $2
+blink $1
 
 setCaptionX -45
 setCaptionY 65
-cap $1
+cap $2
 
 setBlinkX 83
 setBlinkY -42
-blink $2
+blink $1
 
 setBlinkX -20
 setBlinkY 13
-blink $2
+blink $1
 
 setBlinkX -67
 setBlinkY 89
-blink $2
+blink $1
 
 setBigCaptionX 27
 setBigCaptionY 10
-bigcap $1
+bigcap $2
 
 setBlinkX 84
 setBlinkY -31
-blink $2
+blink $1
 
 setBlinkX 81
 setBlinkY 84
-blink $2
+blink $1
 
 setBlinkX 60
 setBlinkY 10
-blink $2
+blink $1
 
 setCaptionX 63
 setCaptionY 39
-cap $1
+cap $2
 
 setBlinkX 79
 setBlinkY 32
-blink $2
+blink $1
 
 setBlinkX -83
 setBlinkY -7
-blink $2
+blink $1
 
 setBlinkX -1
 setBlinkY -9
-blink $2
+blink $1
 
 setBigCaptionX 2
 setBigCaptionY -70
-bigcap $1
+bigcap $2
 
 setBlinkX 56
 setBlinkY 64
-blink $2
+blink $1
 
 setBlinkX 55
 setBlinkY -42
-blink $2
+blink $1
 
 setBlinkX 66
 setBlinkY -87
-blink $2
+blink $1
 
 setCaptionX -32
 setCaptionY 19
-cap $1
+cap $2
 
 setBlinkX -7
 setBlinkY -28
-blink $2
+blink $1
 
 setBlinkX -28
 setBlinkY 37
-blink $2
+blink $1
 
 setBlinkX 31
 setBlinkY 16
-blink $2
+blink $1
 
 setBigCaptionX 49
 setBigCaptionY -52
-bigcap $1
+bigcap $2
 
 setBlinkX 71
 setBlinkY -8
-blink $2
+blink $1
 
 setBlinkX 38
 setBlinkY 77
-blink $2
+blink $1
 
 setBlinkX -55
 setBlinkY -3
-blink $2
+blink $1
 
 setCaptionX 29
 setCaptionY -38
-cap $1
+cap $2
 
 setBlinkX 85
 setBlinkY -35
-blink $2
+blink $1
 
 setBlinkX 78
 setBlinkY -61
-blink $2
+blink $1
 
 setBlinkX 71
 setBlinkY 12
-blink $2
+blink $1
 
 setBigCaptionX 57
 setBigCaptionY -69
-bigcap $1
+bigcap $2
 
 setBlinkX 44
 setBlinkY -62
-blink $2
+blink $1
 
 setBlinkX 63
 setBlinkY -66
-blink $2
+blink $1
 
 setBlinkX 17
 setBlinkY -83
-blink $2
+blink $1
 
 setCaptionX 83
 setCaptionY 44
-cap $1
+cap $2
 
 setBlinkX 7
 setBlinkY -87
-blink $2
+blink $1
 
 setBlinkX -44
 setBlinkY 68
-blink $2
+blink $1
 
 setBlinkX -12
 setBlinkY 67
-blink $2
+blink $1
 
 setBigCaptionX 51
 setBigCaptionY 79
-bigcap $1
+bigcap $2
