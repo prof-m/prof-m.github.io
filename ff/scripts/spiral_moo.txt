@@ -1,20 +1,21 @@
-setBlinkDuration 100
-setBlinkDelay 0
+setBlinkDuration 300
+setBlinkDelay 500
 setBlinkGroupDelay 0
 
-storePhrase I'M BLANK
-storePhrase I'M EMPTY
-storePhrase I'M HELPESS
-storePhrase I'M MINDLESS
-storePhrase I'M AN OBJECT
-storePhrase I'M A PUPPET
-storePhrase I'M EDGING
-storePhrase I'M DROOLING
-storePhrase I'M BRAINWASHED
-storePhrase I'M LOOPED
-storePhrase I'M HYPNOTIZED
-storePhrase I'M MESMERIZED
-storePhrase I'M MINDFUCKED
+storePhrase MOO
+storePhrase cow
+storePhrase milky
+storePhrase udders
+storePhrase MOO
+storePhrase moo
+storePhrase MOOOOO
+storePhrase moooooooooooo
+storePhrase docile
+storePhrase peaceful
+storePhrase happy
+storePhrase milked
+storePhrase simple
+storePhrase purpose
 
 setBlinkX -75
 setBlinkY -14
