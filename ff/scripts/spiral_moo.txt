@@ -16,6 +16,8 @@ storePhrase happy
 storePhrase milked
 storePhrase simple
 storePhrase purpose
+storePhrase squeeze
+storePhrase play
 
 setBlinkX -75
 setBlinkY -14
