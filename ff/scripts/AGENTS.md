@@ -2,6 +2,9 @@
 
 This document is designed to give you (an AI agent) the necessary context and rules to write, modify, and understand FlipFlip caption scripts. When the user asks you to create or edit a script, follow these exact syntax rules and refer to the examples in this `ff/scripts/` directory if needed.
 
+**Authoritative source:** https://ififfy.github.io/flipflip/#/caption_script — consult if something here seems wrong or incomplete.
+**Last verified against upstream docs:** 2026-04-10
+
 ## 1. What are FlipFlip Caption Scripts?
 FlipFlip is an application where users watch slideshows. "Caption scripts" are text files that dictate what text flashes on the screen, when it flashes, for how long, and where.
 
